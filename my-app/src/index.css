@@ -1,0 +1,18 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+
+.App-header {
+  width: 100vw;
+  background-color: #282c34;
+ position: absolute;
+ top: 0;
+ left: 0;
+  color: white;
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46391ac6.css",
+    "main.js": "/static/js/main.14cb6e55.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.jpg": "/static/media/logo.a6c85f7f4f6f0f6a3e81.jpg",
+    "static/media/YOVOLIGHT1500000ZZ.jpg": "/static/media/YOVOLIGHT1500000ZZ.c136b0186bff33a96edb.jpg",
+    "static/media/silhouette-face-guy-glasses-male-260nw-1816667771.webp": "/static/media/silhouette-face-guy-glasses-male-260nw-1816667771.dce7d8745f7d8fc8c2b5.webp",
+    "index.html": "/index.html",
+    "main.46391ac6.css.map": "/static/css/main.46391ac6.css.map",
+    "main.14cb6e55.js.map": "/static/js/main.14cb6e55.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46391ac6.css",
+    "static/js/main.14cb6e55.js"
+  ]
+}

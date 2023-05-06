@@ -1,0 +1,25 @@
+.history-page {
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.h-item {
+    width: inherit;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #f1f1ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #f1f1ff;
+    box-sizing: border-box;
+}
